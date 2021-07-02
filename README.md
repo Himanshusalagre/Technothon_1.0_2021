@@ -1,4 +1,4 @@
-﻿* Name of the team/Single Participant Name : Deep_vision
+* Name of the team/Single Participant Name : Deep_vision
 
 * Number of Members in a Team : 2
 
@@ -8,7 +8,8 @@
 
 * Discord Usernames of TEAM MEMBERS on our Discord Server (Technothon 1.0) : Himanshu | participant, Dhawal | participant
 
-## Detailed Explanation of the Idea : The main goal of the project is to create advancement in E- Learning.
+## Detailed Explanation of the Idea : 
+The main goal of the project is to create advancement in E- Learning.
 The main problem that the educational system is facing is how to provide practical knowledge through E-learning.
 
 ## Solution provided : 
