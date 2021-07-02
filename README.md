@@ -8,14 +8,14 @@
 
 * Discord Usernames of TEAM MEMBERS on our Discord Server (Technothon 1.0) : Himanshu | participant, Dhawal | participant
 
-* Detailed Explanation of the Idea : The main goal of the project is to create advancement in E- Learning.
+## Detailed Explanation of the Idea : The main goal of the project is to create advancement in E- Learning.
 The main problem that the educational system is facing is how to provide practical knowledge through E-learning.
 
-* Solution provided : Code Labs is a real-time interactive web-based lab made for students & teachers. On codelabs students can practice live programming and teachers can monitor them. 
-
+## Solution provided : 
+Code Labs is a real-time interactive web-based lab made for students & teachers. On codelabs students can practice live programming and teachers can monitor them. 
 This is very necessary in this era of pandemic where even education is being pushed all online.
 
-Code Labs have the following features:
+* Code Labs have the following features:
 
  1) Create room: The admin (teacher) creates a room with a secret link and password.
 
@@ -27,17 +27,15 @@ Code Labs have the following features:
 
  5) Check the code: after sending the code, Admin can download the sent code as a pdf.
 
-* Tech Stack used : 
+## Tech Stack used : 
 
 **Client:** Ejs, Bootstrap, CSS, JS
 
 **Server:** Node, MongoDB, Socket.io
 
-* Real Time usage of the project : Cars24.com 
+* Real Time usage of the project : 
 
 * Video Demo
-
-https://www.youtube.com/watch?v=YHJYcyeDrUs
 
 
 ## Environment Variables
@@ -51,7 +49,7 @@ To run this project, you will need to add the following environment variables to
 `JWT_SECRET` (Obtained from Proper authentication from JWT site)
 
   
-## Run Locally
+## Installation Guide: 
 - Step 1:  Fork the repository
 
 - Step 2: Clone the project
