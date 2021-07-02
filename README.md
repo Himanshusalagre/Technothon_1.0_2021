@@ -81,27 +81,27 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/1.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/1.png)
 
 - Home Page of Web APP
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/2.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/2.png)
 
 - Details of lab and password creation by admin.
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/3.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/3.png)
 
 - Meeting Link Generation
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/4.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/4.png)
 
 - Joining the meeting room.
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/5.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/5.png)
 
 - Student Side 
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/screenshots/6.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/6.png)
 
 - Admin Side
 
