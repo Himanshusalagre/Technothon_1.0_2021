@@ -81,7 +81,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/public/1.png)
+![App Screenshot](https://github.com/Himanshusalagre/Technothon_1.0_2021/main/public/1.png)
 
 - Home Page of Web APP
 
